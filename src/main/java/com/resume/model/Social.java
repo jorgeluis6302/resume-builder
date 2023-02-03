@@ -1,4 +1,4 @@
 package com.resume.model;
 
-public interface Education {
+public interface Social {
 }
